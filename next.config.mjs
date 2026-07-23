@@ -2,9 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   cacheComponents: true,
-  eslint: {
-    ignoreDuringBuilds: true
-  },
+
   async headers() {
     return [
       {
