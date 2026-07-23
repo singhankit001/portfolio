@@ -47,19 +47,19 @@ Whether you're exploring the 3D interactive keyboard, checking out my latest Saa
 This project was built using the best and most modern tools available in the web ecosystem:
 
 ### **Core Framework**
-- **[Next.js 14](https://nextjs.org/)** (App Router)
-- **[React 18](https://react.dev/)**
-- **[TypeScript](https://www.typescriptlang.org/)** for strict type safety
+- <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> - Utilizing the powerful App Router for seamless server-side rendering, dynamic layout management, and optimal SEO out of the box.
+- <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> - The foundation of the interactive user interface, leveraging React Server Components and hooks for advanced state management.
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> - Ensures robust, bug-free, and scalable code through strict type safety and interface definitions across the entire application.
 
 ### **Styling & UI Components**
-- **[Tailwind CSS](https://tailwindcss.com/)** for utility-first styling
-- **[Shadcn UI](https://ui.shadcn.com/)** for accessible, headless components
-- **[Aceternity UI](https://ui.aceternity.com/)** for premium, complex animated UI blocks
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> - A utility-first CSS framework that enables rapid, highly customizable, and perfectly responsive design directly within the markup.
+- <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" /> - Provides beautifully designed, highly accessible, and unstyled headless UI components that blend seamlessly with Tailwind.
+- <img src="https://img.shields.io/badge/Aceternity_UI-000000?style=flat-square&logo=vercel&logoColor=white" alt="Aceternity UI" /> - A premium library of complex, pre-built animated UI blocks that give the portfolio its distinct, high-end "wow" factor.
 
 ### **3D & Animations**
-- **[Spline Runtime](https://spline.design/)** for rendering and interacting with the 3D keyboard
-- **[Framer Motion](https://www.framer.com/motion/)** for page transitions and micro-interactions
-- **[GSAP](https://gsap.com/)** for high-performance scroll-driven animations
+- <img src="https://img.shields.io/badge/Spline_3D-FF578A?style=flat-square&logo=spline&logoColor=white" alt="Spline 3D" /> - Powers the core 3D interactive keyboard on the homepage, allowing for real-time dynamic camera tracking and object interactions in the browser.
+- <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" /> - Orchestrates the buttery-smooth page transitions, spring-based micro-interactions, and highly performant layout animations.
+- <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" /> - The industry standard for high-performance scroll-driven animations, intricate parallax effects, and complex timeline sequences.
 
 ## 🚀 Getting Started
 
